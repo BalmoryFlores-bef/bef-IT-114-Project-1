@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">List Processor</string>
+    <string name="action_settings">Settings</string>
+    <string name="initial_message">Messages will go here.</string>
+    <string name="opt1">Show list</string>
+    <string name="opt2">Load a file</string>
+    <string name="opt3">Add cruise</string>
+    <string name="opt4">Cruise details</string>
+    <string name="opt5">Remove cruise</string>
+    <string name="opt6">Most expensive</string>
+    <string name="opt7">Average cruise length</string>
+    <string name="opt8">Average per day price</string>
+    <string name="add_item">Enter new item</string>
+    <string name="edit_position">Enter position</string>
+    <string name="button_add">Add the Item</string>
+    <string name="button_load">Load File</string>
+    <string name="title_activity_add_item">Add Item Activity</string>
+    <string name="text_add_heading"><b><u>Add a New String to the List</u></b>\n\nEnter the new string in the first box,
+        and its position in the second box.\nThen press the button.\n</string>
+    <string name="title_activity_remove_item">Remove Item Activity</string>
+    <string name="text_remove_heading"><b><u>Remove a String from the List</u></b>\n\nEnter the position of the String you wish to remove.
+        \nThen press the button.\n</string>
+    <string name="file_load_heading"><b><u>Load file</u></b>\n\nEnter the url to the file
+        \nThen press the button.\n</string>
+    <string name="button_remove">Remove the Item</string>
+    <string name="remove_item">Enter position of item</string>
+    <string name="load_item">Enter URL of file</string>
+    <string name="Display_info_heading"><b><u>Display Info</u></b>\n\nEnter the number code for a cruise
+        \nThen press the button.\n</string>
+    <string name="numCode_et">Enter number code of cruise</string>
+    <string name="numCode_view">Enter number code of cruise</string>
+    <string name="button_display_info">Remove the Item</string>
+
+
+</resources>
